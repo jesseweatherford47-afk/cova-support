@@ -1,1 +1,1 @@
-# Cova Support - Customer Support Triage Systen
+# Cova Support - Customer Support Triage System
